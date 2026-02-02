@@ -13,7 +13,7 @@ to oversimplify, an extremely barebones version of google chrome.
 
 # build instructions
 1. open project in your IDE (like VS Code)
-2. install the dependencies ` npm install --save-dev electron-builder electron`
+2. install the dependencies: ` npm install --save-dev electron-builder electron`
 3. run the build cmd associated with your OS
   Linux: npm run build:linux
   Windows: npm run build:win
