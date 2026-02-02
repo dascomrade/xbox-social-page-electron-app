@@ -1,7 +1,8 @@
+
+# **Not Affiliated with Microsoft Corporation or its Xbox subsidiary**
+
 # xbox-social-page-electron-app
 
-
-**Not Affiliated with Microsoft Corporation or its Xbox subsidiary**
 
 this was quickly made due to laziness with regards to opening a browser tab/window just to check my xbox profile. should take you to your profile upon log-in
 
