@@ -17,5 +17,5 @@ to oversimplify, an extremely barebones version of google chrome.
 3. run the build cmd associated with your OS\
    Linux: npm run build:linux\
    Windows: npm run build:win\
-   Scam (MacOS): npm run build:mac\
+   Scam (MacOS): npm run build:mac
 4. go to the `dist` folder and run your AppImage/.snap/.EXE/.WhateverTheHellMacUses
