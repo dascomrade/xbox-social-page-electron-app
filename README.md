@@ -14,8 +14,8 @@ to oversimplify, an extremely barebones version of google chrome.
 # build instructions
 1. open project in your IDE (like VS Code)
 2. install the dependencies: ` npm install --save-dev electron-builder electron`
-3. run the build cmd associated with your OS
-  a. Linux: npm run build:linux
-  b. Windows: npm run build:win
-  c. Scam (MacOS): npm run build:mac
+3. run the build cmd associated with your OS\
+   Linux: npm run build:linux\
+   Windows: npm run build:win\
+   Scam (MacOS): npm run build:mac\
 4. go to the `dist` folder and run your AppImage/.snap/.EXE/.WhateverTheHellMacUses
